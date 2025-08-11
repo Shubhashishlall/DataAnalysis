@@ -1,3 +1,7 @@
+##Link of Google Colab Notebook -
+https://colab.research.google.com/drive/1RzpueDc45RpLFRIGc4W86axpluGk9Zbn?usp=sharing
+
+
 # -*- coding: utf-8 -*-
 """Project1.ipynb
 
