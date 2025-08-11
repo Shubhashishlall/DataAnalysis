@@ -1,6 +1,6 @@
-# Python Diwali Sales Analysis
+# Python Sales Analysis
 
-This project analyzes Diwali sales data to uncover customer behavior patterns and improve both customer experience and sales performance. It also demonstrates how to create various visualizations using Seaborn and Matplotlib in Python.
+This project analyzes festivals sales data to uncover customer behavior patterns and improve both customer experience and sales performance. It also demonstrates how to create various visualizations using Seaborn and Matplotlib in Python.
 
 
 # Objectives
@@ -33,4 +33,4 @@ This project analyzes Diwali sales data to uncover customer behavior patterns an
 # Key Insights
 
 * Buying patterns differ significantly between male and female customers.
-* Certain occupations and age groups dominate sales during Diwali.
+* Certain occupations and age groups dominate sales during festivals.
